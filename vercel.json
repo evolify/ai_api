@@ -10,12 +10,12 @@
       {
         "src": "/models",
         "dest": "/app.js",
-        "methods": ["POST"]
+        "methods": ["GET"]
       },
       {
         "src": "/v1/models",
         "dest": "/app.js",
-        "methods": ["POST"]
+        "methods": ["GET"]
       },
       {
         "src": "/v1/chat/completions",
